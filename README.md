@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Aspirante a DevOps / SRE / Cloud Engineer</b><br/>
-  Brasília, Brasil 🇧🇷
+  Brasil 🇧🇷
 </p>
 
 ---
@@ -31,7 +31,7 @@ Atualmente estudando e construindo projetos práticos com as principais ferramen
 
 ## 📌 Projetos em destaque
 
-### 🐳 [AWS-Project](https://github.com/seu-usuario/AWS-Project)
+### 🐳 [AWS-Project](https://github.com/Gansblaidx/AWS-Project)
 Deploy de container Nginx na AWS com ECR + App Runner e automação de infraestrutura com Ansible.
 
 `Docker` `Nginx` `AWS ECR` `AWS App Runner` `Ansible` `AWS EC2`
