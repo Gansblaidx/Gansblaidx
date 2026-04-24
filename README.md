@@ -1,21 +1,21 @@
-<h1 align="center">Olá, eu sou o Matheus Ximenes 👋</h1>
+<h1 align="center">Hello, I'm Matheus Ximenes 👋</h1>
 
 <p align="center">
-  <b>Aspirante a DevOps / SRE / Cloud Engineer</b><br/>
-  Brasil 🇧🇷
+  <b>Aspiring Devops / SRE / Cloud Engineer</b><br/>
+  Brazil 🇧🇷
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Estou em transição de carreira para a área de **DevOps/SRE/Cloud**, com foco em automação de infraestrutura, containerização e cloud computing.
+I'm currently undergoing a career transition into **DevOps/SRE/Cloud**, focusing on infrastructure automation, containerization and cloud computing.
 
-Atualmente estudando e construindo projetos práticos com as principais ferramentas do mercado.
+I'm currently studying and building hands-on projects using industry-leading tools.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️  Tech & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -29,25 +29,25 @@ Atualmente estudando e construindo projetos práticos com as principais ferramen
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
 ### 🐳 [AWS-Project](https://github.com/Gansblaidx/AWS-Project)
-Deploy de container Nginx na AWS com ECR + App Runner e automação de infraestrutura com Ansible.
+Deploying Nginx containerss on AWS with ECR + App Runner, featuring infrastructure automation with Ansible.
 
 `Docker` `Nginx` `AWS ECR` `AWS App Runner` `Ansible` `AWS EC2`
 
 ---
 
-## 📚 Atualmente aprendendo
+## 📚 Currently Learning
 
 - ☁️ AWS (Cloud Practitioner → Solutions Architect)
 - 🏗️ Terraform (Infrastructure as Code)
 - ☸️ Kubernetes
-- 📊 Observabilidade com Datadog
+- 📊 Observability with Datadog
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ximenes-511b13182/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gansblaidx)
