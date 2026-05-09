@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Matheus Ximenes 👋</h1>
+h1 align="center">Hello, I'm Matheus Ximenes 👋</h1>
 
 <p align="center">
   <b>Aspiring Devops / SRE / Cloud Engineer</b><br/>
@@ -35,6 +35,12 @@ I'm currently studying and building hands-on projects using industry-leading too
 Deploying Nginx containerss on AWS with ECR + App Runner, featuring infrastructure automation with Ansible.
 
 `Docker` `Nginx` `AWS ECR` `AWS App Runner` `Ansible` `AWS EC2`
+
+### ⭐ [Projects](https://github.com/Gansblaidx/Projects)
+
+Repository for the projects I make along this journey.
+
+`pages-deployment`
 
 ---
 
