@@ -40,7 +40,7 @@ Deploying Nginx containerss on AWS with ECR + App Runner, featuring infrastructu
 
 Repository for the projects I make along this journey.
 
-`pages-deployment`
+`pages-deployment` `nodejs-docker-deployment`
 
 ---
 
