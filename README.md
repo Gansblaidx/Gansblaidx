@@ -29,18 +29,13 @@ I'm currently studying and building hands-on projects using industry-leading too
 
 ---
 
-## 📌 Featured Projects
-
-### 🐳 [AWS-Project](https://github.com/Gansblaidx/AWS-Project)
-Deploying Nginx containerss on AWS with ECR + App Runner, featuring infrastructure automation with Ansible.
-
-`Docker` `Nginx` `AWS ECR` `AWS App Runner` `Ansible` `AWS EC2`
+## 📌 Featured Project
 
 ### ⭐ [Projects](https://github.com/Gansblaidx/Projects)
 
 Repository for the projects I make along this journey.
 
-`small-projects/pages-deployment` `nodejs-docker-deployment`
+`small-projects/pages-deployment` `nodejs-docker-deployment` `AWS-Project`
 
 ---
 
