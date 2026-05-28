@@ -35,7 +35,7 @@ I'm currently studying and building hands-on projects using industry-leading too
 
 Repository for the projects I make along this journey.
 
-`small-projects/pages-deployment` `nodejs-docker-deployment` `AWS-Project`
+[`pages-deployment`](https://github.com/Gansblaidx/Projects/tree/main/pages-deployment) [`nodejs-docker-deployment`](https://github.com/Gansblaidx/Projects/tree/main/nodejs-docker-deployment) [`AWS-Project`](https://github.com/Gansblaidx/Projects/tree/main/AWS-Project)
 
 ---
 
