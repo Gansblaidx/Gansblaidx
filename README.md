@@ -26,6 +26,8 @@ I'm currently studying and building hands-on projects using industry-leading too
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ---
 
@@ -35,7 +37,7 @@ I'm currently studying and building hands-on projects using industry-leading too
 
 Repository for the projects I make along this journey.
 
-[`pages-deployment`](https://github.com/Gansblaidx/Projects/tree/main/pages-deployment) [`nodejs-docker-deployment`](https://github.com/Gansblaidx/Projects/tree/main/nodejs-docker-deployment) [`AWS-Project`](https://github.com/Gansblaidx/Projects/tree/main/AWS-Project)
+[`FullMonitoringProject`](https://github.com/Gansblaidx/FullMonitoringProject) [`pages-deployment`](https://github.com/Gansblaidx/Projects/tree/main/pages-deployment) [`nodejs-docker-deployment`](https://github.com/Gansblaidx/Projects/tree/main/nodejs-docker-deployment) [`AWS-Project`](https://github.com/Gansblaidx/Projects/tree/main/AWS-Project)
 
 ---
 
@@ -44,7 +46,7 @@ Repository for the projects I make along this journey.
 - ☁️ AWS (Cloud Practitioner → Solutions Architect)
 - 🏗️ Terraform (Infrastructure as Code)
 - ☸️ Kubernetes
-- 📊 Observability with Datadog
+- 📊 Observability with Grafana and Prometheus
 
 ---
 
